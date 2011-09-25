@@ -1,0 +1,7 @@
+Game of Life on Google App Engine written in Clojure
+
+## License
+
+Copyright (C) 2011 Michal Kwiatkowski
+
+Distributed under the Eclipse Public License, the same as Clojure.
