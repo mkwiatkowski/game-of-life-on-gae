@@ -3,5 +3,6 @@
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [org.clojure/clojure-contrib "1.2.0"]
                  [compojure "0.6.5"]]
-  :dev-dependencies [[appengine-magic "0.4.5"]]
+  :dev-dependencies [[appengine-magic "0.4.5"]
+                     [swank-clojure "1.3.3-SNAPSHOT"]]
   :ring {:handler game-of-life-on-gae.core/app})
