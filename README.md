@@ -1,5 +1,9 @@
 Game of Life on Google App Engine written in Clojure
 
+## Live demo
+
+http://game-of-life-on-gae.appspot.com/
+
 ## Development
 
 M-x clojure-jack-in
